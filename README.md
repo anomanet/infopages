@@ -1,10 +1,10 @@
 # infopages
-<!-- this will be a website with easy to navigate docs including tons of manpages, infopages, and help menus for linux and powershell and command prompt eventually. I am using mint with some tools i will list. I have 3 tera bytes of drives space on an older desktop with 4 gb of ram and 2 dual core processors that i hope to host the files on to save cost.This will be a very large amount of files i look forward to learning the best ways to serve up this content as well as generate it in the terminal. I hope to build what i learn along the way into interactive tutorials for additional functionality to the website. What better than a web-browser contained playground and manpages all in one site!-->
+ this will be a website with easy to navigate docs including tons of manpages, infopages, and help menus for linux and powershell and command prompt eventually. I am using mint with some tools i will list. I have 3 tera bytes of drives space on an older desktop with 4 gb of ram and 2 dual core processors that i hope to host the files on to save cost.This will be a very large amount of files i look forward to learning the best ways to serve up this content as well as generate it in the terminal. I hope to build what i learn along the way into interactive tutorials for additional functionality to the website. What better than a web-browser contained playground and manpages all in one site
 
-<!--here is a sample on the home page for grep. i will update this daily as i work on this project.-->
+-here is a sample on the home page for grep. i will update this daily as i work on this project.
 
 
-<!--nav bar-->
+nav bar
 <pre>Next: Introduction,  Up: (dir)
 1 Introduction
 **************
@@ -59,17 +59,17 @@ Invoking</u>::                    Command-line options, environment, exit status
 
 
 </pre>
-<!-- navbar -->
+ navbar 
 
 
 
-<!-- as you can see not much yet. dont worry about formating there isnt really much untill i build the look and syntax the command will use to generate and copy as html.-->
+ as you can see not much yet. dont worry about formating there isnt really much untill i build the look and syntax the command will use to generate and copy as html.-->
 
 
 
 
 
-<!--packages used
+packages used
   1. info
   2. man
   3. help
@@ -77,4 +77,5 @@ Invoking</u>::                    Command-line options, environment, exit status
   5 nano
   6 xfce terminal
   7 deepin terminal
-  -->
+
+ 
